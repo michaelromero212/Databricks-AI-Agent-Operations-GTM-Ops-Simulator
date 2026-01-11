@@ -1,0 +1,48 @@
+Deal ID: OPP-2026-1847
+Account: GlobalRetail Corp
+Deal Size: $1.2M ARR
+Current Stage: Stage 3 - Proposal/Negotiation
+Target Close: 2026-02-28
+
+Account Overview:
+- Fortune 500 retail company, 50,000+ employees
+- Current Databricks customer (DBU consumption: $180k/year)
+- Expansion opportunity: Enterprise-wide data platform standardization
+
+Risk Indicators:
+
+1. PROCUREMENT DELAYS
+   - Legal review has been ongoing for 6 weeks (typical is 2-3 weeks)
+   - Procurement requested 3 rounds of security questionnaire updates
+   - No clear timeline commitment from their side
+
+2. CHAMPION CHANGES
+   - Original champion (VP Data) left company 3 weeks ago
+   - New VP Data started last week, unfamiliar with project
+   - Need to rebuild executive sponsorship
+
+3. COMPETITIVE PRESSURE
+   - Snowflake sales team actively engaged with CFO
+   - CFO received unsolicited pricing proposal 40% below our quote
+   - IT team has historical relationship with AWS (potential Glue push)
+
+4. BUDGET CONCERNS
+   - Q1 budget freeze announced company-wide
+   - Finance requesting 60/40 payment terms (we quoted 100% upfront)
+   - Asking for extended pilot period (6 months vs 3 months proposed)
+
+5. TECHNICAL BLOCKERS
+   - Security team flagged Unity Catalog SSO integration complexity
+   - Requires FedRAMP certification (we have it, but docs need updating)
+   - Legacy Oracle dependency may slow migration timeline
+
+Recent Communications:
+- 2026-01-08: Email to new VP Data - no response (5 days)
+- 2026-01-05: Procurement requested updated MSA with cyber insurance
+- 2026-01-03: Technical team asked about on-prem deployment options
+
+Sales Rep Notes:
+"Deal feels stalled. New VP is hard to reach. Worried about Snowflake 
+making inroads while we're stuck in legal review. Need executive help."
+
+Request: Assess deal risk level and recommend intervention strategy.

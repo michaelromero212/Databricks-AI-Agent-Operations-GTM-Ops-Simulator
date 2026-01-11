@@ -1,0 +1,34 @@
+Customer: Acme Financial Services
+Account ID: ACME-2024-0892
+Account Tier: Enterprise
+Industry: Financial Services / Banking
+
+Last Interaction: Product demo on 2026-01-10
+Interaction Type: Technical Deep Dive - Lakehouse Architecture
+Duration: 90 minutes
+Attendees: 
+  - Marcus Williams (VP Engineering) - Primary champion
+  - Jennifer Park (Chief Data Officer) - Executive sponsor
+  - David Kim (Lead Data Architect) - Technical evaluator
+
+Demo Summary:
+VP Engineering was highly engaged during the lakehouse demo. Asked detailed 
+questions about Delta Lake ACID transactions, Unity Catalog governance, and 
+MLflow integration with existing Kubernetes infrastructure.
+
+CDO expressed strong interest in data lineage and compliance features, 
+specifically around GDPR and SOC2 requirements.
+
+Key Discussion Points:
+1. Current challenges with data silos across 5 legacy systems
+2. Need for real-time fraud detection (currently 6-hour latency)
+3. Compliance requirements for financial data retention
+4. Interest in seeing ROI calculator and customer references in FinServ
+
+Competitor Mentions: Snowflake (current), AWS Glue (under evaluation)
+
+Deal Stage: Stage 2 - Technical Validation
+Deal Size: $450,000 ARR (estimated)
+Close Date: Q2 2026 (target)
+
+Next Steps: TBD - Awaiting follow-up recommendations

@@ -1,0 +1,20 @@
+Lead Name: Sarah Chen
+Company: TechVision Analytics
+Industry: SaaS / Data Analytics
+Title: VP of Data Engineering
+Source: Webinar Registration - "Modern Data Stack 2026"
+
+Context:
+- Downloaded lakehouse architecture whitepaper last week
+- Company size: 200 employees, Series B startup
+- Current stack: Snowflake, dbt, Fivetran
+- Pain points mentioned: High costs (~$50k/month), slow ELT pipelines, limited ML capabilities
+- Competitor: Currently evaluating Snowflake + Dataiku
+- Budget cycle: Q2 planning starts in March
+
+Recent Activity:
+- Attended 45-minute webinar, stayed for full Q&A
+- Asked questions about Delta Lake performance vs Iceberg
+- Requested pricing information for Enterprise tier
+
+Next Steps: Discovery call scheduled for January 15th

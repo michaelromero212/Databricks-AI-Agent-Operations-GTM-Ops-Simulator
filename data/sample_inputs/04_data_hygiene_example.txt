@@ -1,0 +1,73 @@
+CRM Data Quality Check Request
+Source: Salesforce Export - January 2026
+Record Count: 847 leads
+
+Sample Records with Potential Issues:
+
+RECORD 1:
+  Lead ID: LD-2026-0012
+  Name: John Smith
+  Company: Tech Company Inc
+  Email: john@gmail.com
+  Phone: 555-1234
+  Industry: (blank)
+  Lead Source: (blank)
+  Created Date: 2026-01-01
+  ISSUES: Generic company name, personal email, missing industry/source
+
+RECORD 2:
+  Lead ID: LD-2026-0089
+  Name: Test User
+  Company: Test Account
+  Email: test@test.com
+  Phone: 000-000-0000
+  Industry: Technology
+  Lead Source: Web Form
+  Created Date: 2026-01-02
+  ISSUES: Obvious test record that should be deleted
+
+RECORD 3:
+  Lead ID: LD-2026-0156
+  Name: María García
+  Company: Innovación Digital S.A.
+  Email: mgarcia@innovaciondigital.mx
+  Phone: +52 55 1234 5678
+  Industry: Manufacturing
+  Lead Source: Partner Referral
+  Created Date: 2026-01-03
+  ISSUES: None - appears valid
+
+RECORD 4:
+  Lead ID: LD-2026-0234
+  Name: UPPERCASE NAME
+  Company: lowercase company
+  Email: ALLCAPS@COMPANY.COM
+  Phone: 1234567890
+  Industry: Retail
+  Lead Source: Trade Show
+  Created Date: 2026-01-04
+  ISSUES: Inconsistent capitalization, improperly formatted phone
+
+RECORD 5:
+  Lead ID: LD-2026-0298
+  Name: (duplicate of LD-2026-0012)
+  Company: Tech Company Inc.
+  Email: john@gmail.com
+  Phone: (555) 123-4567
+  Industry: Technology
+  Lead Source: Cold Call
+  Created Date: 2026-01-05
+  ISSUES: Potential duplicate - same email as LD-2026-0012
+
+RECORD 6:
+  Lead ID: LD-2026-0345
+  Name: Sarah O'Connor-Williams
+  Company: Databricks (COMPETITOR)
+  Email: soconnor@databricks.com
+  Phone: 415-555-0199
+  Industry: Technology
+  Lead Source: Website
+  Created Date: 2026-01-06
+  ISSUES: Competitor employee - should be disqualified
+
+Request: Identify data quality issues and recommend cleanup actions.
