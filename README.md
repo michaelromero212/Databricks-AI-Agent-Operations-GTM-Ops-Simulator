@@ -140,6 +140,11 @@ Upload lead data, deal notes, or sales inputs to test the AI agent. Select a tas
 
 ![Upload Page](docs/images/upload_page.jpg)
 
+### AI Agent Response (LLM Output)
+Real AI-generated analysis from the Llama-3.2 model. The agent provides a Company Overview, Industry & Use Case Fit, Suggested Qualification Questions, and Recommended Next Steps—all in ~3 seconds.
+
+![Agent Response](docs/images/agent_response.jpg)
+
 ### Documentation & Setup
 Quick access to setup instructions, documentation links, and current deployment status.
 
