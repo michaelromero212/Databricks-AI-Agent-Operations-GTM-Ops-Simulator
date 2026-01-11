@@ -118,6 +118,33 @@ Open your browser to: `http://localhost:8000`
 jupyter notebook dashboards/kpi_dashboard.ipynb
 ```
 
+## 📸 Screenshots
+
+### Home Page
+The landing page provides an overview of the simulator, role alignment with the AI Operations PM position, and quick access to all features.
+
+![Home Page](docs/images/home_page.jpg)
+
+### KPI Dashboard
+Real-time operational metrics including Task Accuracy (92%), User Satisfaction (4.18/5), Resolution Time, and Error Rate. Also shows A/B test results comparing Agent A vs Agent B performance.
+
+![KPI Dashboard](docs/images/dashboard_kpis.jpg)
+
+### GTM Analytics
+Performance breakdown by Task Type and Lead Source, enabling strategic decisions about which channels produce the most reliable AI outcomes.
+
+![GTM Analytics](docs/images/dashboard_gtm.jpg)
+
+### Upload & Test Agent
+Upload lead data, deal notes, or sales inputs to test the AI agent. Select a task type and receive real LLM-powered analysis.
+
+![Upload Page](docs/images/upload_page.jpg)
+
+### Documentation & Setup
+Quick access to setup instructions, documentation links, and current deployment status.
+
+![Documentation](docs/images/home_page_bottom.jpg)
+
 ## 🎯 Role Alignment: AI Operations Program Manager
 This project is specifically designed to demonstrate the core competencies of the **AI Operations Program Manager** role at Databricks, focusing on:
 
